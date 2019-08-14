@@ -1,0 +1,1 @@
+/var/www/kivitendo-crm/install/install-Kivitendo-on-Ubuntu-18.04.sh
