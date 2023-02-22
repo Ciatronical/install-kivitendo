@@ -22,7 +22,8 @@ dialog --title "Latex installieren" --backtitle "kivitendo installieren" --yesno
 response=$?
 case $response in
    0) echo "Latex wird installiert."
-      apt-get install texlive-base-bin texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra texlive-lang-german texlive-generic-extra
+      apt-get install texlive-binaries texlive-latex-recommended texlive-fonts-recommended texlive-lang-german dvisvgm fonts-lmodern fonts-texgyre libptexenc1 libsynctex2 libteckit0 libtexlua53 libtexluajit2 libzzip-0-13 lmodern tex-common tex-gyre texlive-base latexmk texlive-latex-extra
+
       ;;
    1) echo "Latex wird nicht installiert."
       ;;

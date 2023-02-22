@@ -8,11 +8,11 @@ This installation script for kivitendo is aimed at developers who want to set up
 
 sudo su
 
-wget https://raw.githubusercontent.com/Ciatronical/install-kivitendo/master/install-Kivitendo-on-Ubuntu-18.04.sh 
+wget https://raw.githubusercontent.com/Ciatronical/install-kivitendo/master/install-Kivitendo-on-Ubuntu.sh 
 
-chmod u+x install-Kivitendo-on-Ubuntu-18.04.sh
+chmod u+x install-Kivitendo-on-Ubuntu.sh
 
-./install-Kivitendo-on-Ubuntu-18.04.sh
+./install-Kivitendo-on-Ubuntu.sh
 
 
 
@@ -25,9 +25,9 @@ Dieses Installtions-Script für kivitendo richtet sich an Entwicker die in kurze
 
 sudo su
 
-wget https://raw.githubusercontent.com/Ciatronical/install-kivitendo/master/install-Kivitendo-on-Ubuntu-18.04.sh 
+wget https://raw.githubusercontent.com/Ciatronical/install-kivitendo/master/install-Kivitendo-on-Ubuntu.sh 
 
-chmod u+x install-Kivitendo-on-Ubuntu-18.04.sh
+chmod u+x install-Kivitendo-on-Ubuntu.sh
 
-./install-Kivitendo-on-Ubuntu-18.04.sh
+./install-Kivitendo-on-Ubuntu.sh
 
